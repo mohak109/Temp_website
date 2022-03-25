@@ -3,15 +3,15 @@ layout: default
 is_contact: true
 ---
 
-* Email: [aniket.r@iitgn.ac.in](mailto:aniket.r@iitgn.ac.in)
+* Email: [goyalmohak@iitgn.ac.in](mailto:goyalmohak@iitgn.ac.in)
 
-* Phone: [+91-7765961770](tel:+91-7765961770)
+* Phone: [+91-9529258921](tel:+91-9529258921)
 
 ---
 
 ## Mailing Address
 
-> 405, G Hostel,
+> J 229, JURQIA Hostel,
 >
 > IITGn, 
 >
