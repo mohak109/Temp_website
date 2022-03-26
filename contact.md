@@ -21,12 +21,12 @@ is_contact: true
 
 ## Links
 
-1. [Twitter](https://twitter.com/AniketRajnish)
-2. [LinkedIn](https://www.linkedin.com/in/makrawtf/)
-4. [YouTube](https://www.youtube.com/c/makra2077/featured)
+1. [Twitter](https://twitter.com/Mohak109)
+2. [LinkedIn](www.linkedin.com/in/mohak109)
+4. [YouTube](https://www.youtube.com/c/Mohakgoyal/featured)
 5. [Itch](https://makra.itch.io/)
 6. [Play Store](https://play.google.com/store/apps/dev?id=7545721879938982945)
-7. [Github](https://github.com/aniketrajnish)
+7. [Github](https://github.com/mohak109)
 8. [DigiS- Instagram](https://www.instagram.com/digis_iitgn/)
 9. [DigiS- Play Store](https://play.google.com/store/apps/developer?id=DigiS+IIT+Gandhinagar)
 10. [Only Fans](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
