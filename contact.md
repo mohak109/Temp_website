@@ -22,7 +22,7 @@ is_contact: true
 ## Links
 
 1. [Twitter](https://twitter.com/Mohak109)
-2. [LinkedIn](www.linkedin.com/in/mohak109)
+2. [LinkedIn](https://www.linkedin.com/in/mohak109)
 4. [YouTube](https://www.youtube.com/c/Mohakgoyal/featured)
 5. [Itch](https://makra.itch.io/)
 6. [Play Store](https://play.google.com/store/apps/dev?id=7545721879938982945)
