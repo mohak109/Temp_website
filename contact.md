@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-* Email: [goyalmohak@iitgn.ac.in](mailto:goyalmohak@iitgn.ac.in)
+* Email: [mohakgoyal@jklu.edu.in](mailto:goyalmohak@iitgn.ac.in)
 
 * Phone: [+91-9529258921](tel:+91-9529258921)
 
@@ -11,11 +11,11 @@ is_contact: true
 
 ## Mailing Address
 
-> J 229, JURQIA Hostel,
+> 403, Mohak Residency, Plot no. C-651&652
 >
-> IITGn, 
+> 4-C Scheme, Macheda, Sikar Road,
 >
-> Gandhinagar
+> Jaipur, Raj. - 302013
 > 
 ---
 
@@ -23,12 +23,6 @@ is_contact: true
 
 1. [Twitter](https://twitter.com/Mohak109)
 2. [LinkedIn](https://www.linkedin.com/in/mohak109)
-4. [YouTube](https://www.youtube.com/c/Mohakgoyal/featured)
-5. [Itch](https://makra.itch.io/)
-6. [Play Store](https://play.google.com/store/apps/dev?id=7545721879938982945)
-7. [Github](https://github.com/mohak109)
-8. [DigiS- Instagram](https://www.instagram.com/digis_iitgn/)
-9. [DigiS- Play Store](https://play.google.com/store/apps/developer?id=DigiS+IIT+Gandhinagar)
-10. [Only Fans](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-
+3. [YouTube](https://www.youtube.com/c/Mohakgoyal/featured)
+4. [Itch](https://mohak109.itch.io/)
+5. [Github](https://github.com/mohak109)
