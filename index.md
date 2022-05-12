@@ -11,7 +11,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Type | List
 -----|-------|--------
-Languages | C#, C++, HLSL, GLSL, Python, XML
+Languages | Java, Python, MySQL
 Tools & Technologies | Unity, OpenGL, Adobe Premiere Pro, Adobe After effects, Photoshop, Blender, Adobe XD, GameMaker Studio 2, MATLAB, Autodesk Inventor
  
 ## POR
